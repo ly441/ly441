@@ -3,7 +3,7 @@
 
  **Web Developer | Frontend Enthusiast | Lifelong Learner**  
  Based in Nairobi,Kenya
-Reach me: [Email](koliilynn@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+Reach me: [Email](koliilynn@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://github.com/ly441/portifolio)
 
 ---
 
@@ -57,7 +57,7 @@ I’m actively open to work and collaborations — feel free to explore my repos
 
  **Email**: koliilynn@gmail.com
  **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+ **Portfolio**: [yourportfolio.com](https://github.com/ly441/portifolio)
 
 ---
 
