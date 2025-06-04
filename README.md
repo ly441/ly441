@@ -3,7 +3,7 @@
 
  **Web Developer | Frontend Enthusiast | Lifelong Learner**  
  Based in Nairobi,Kenya
-Reach me: [Email](koliilynn@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://github.com/ly441/portifolio)
+Reach me: [Email](koliilynn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lynn-soyian-82b048368/) | [Portfolio](https://github.com/ly441/portifolio)
 
 ---
 
@@ -56,7 +56,7 @@ Here are some projects I’ve worked on that showcase my skills:
 I’m actively open to work and collaborations — feel free to explore my repos or message me if you’re hiring for **junior or frontend web development roles**!
 
  **Email**: koliilynn@gmail.com
- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+ **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lynn-soyian-82b048368/)  
  **Portfolio**: [yourportfolio.com](https://github.com/ly441/portifolio)
 
 ---
